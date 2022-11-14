@@ -1,4 +1,4 @@
-# Lomax-Portfolio#
+# Lomax-Portfolio
 This project was to create a portfolio template to later add on all projects from this course to best represent my skills.
 
 # What is the purpose of this portfolio?
