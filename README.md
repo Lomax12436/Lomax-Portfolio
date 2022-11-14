@@ -9,6 +9,4 @@ You will be greeted with who I am then navigate down to the different sections s
 
 # Where can you find this project?
 This project can be found at https://lomax12436.github.io/Lomax-Portfolio/
-
-# How to get to the site?
-https://lomax12436.github.io/Lomax-Portfolio/
+Or the github link at git@github.com:Lomax12436/Lomax-Portfolio.git
